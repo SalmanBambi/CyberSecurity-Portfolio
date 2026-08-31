@@ -34,7 +34,7 @@ This portfolio contains hands on labs and tasks of Google CyberSecurity Course.
 
 ## Related Repositories
 
-- [Hands-on Projects](https://github.com/SalmanBambi/Cyber_Projects) — Practical Python Network Sniffer, Phishing Awareness Training, and Secure Code Review.
+- [Hands-on Projects](https://github.com/SalmanBambi/Cyber_Projects) — Practical Python Network Sniffer, Phishing Awareness Training.
 
 ---
 
