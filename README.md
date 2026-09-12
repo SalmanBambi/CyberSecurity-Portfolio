@@ -23,7 +23,7 @@ This portfolio contains hands on labs and tasks of Google CyberSecurity Course.
 | :--- | :--- | :---: | :---: |
 | **Professional Statement** | Career goals, values, and core technical competencies. | Completed | [View Section](#-professional-statement) |
 | **Security Audit Report** | Assessing business security controls, assets, and compliance risks for Botium Toys. | Completed | [View Audit PDF](./Botium_Toys_Security_Audit.pdf) |
-| **Network Architecture & Security** | Analyzing network structure, protocols, and firewall rules. | ⏳ Pending | *Coming Soon* |
+| **Network Architecture & Security** | Analyzing network structure, protocols, and firewall rules. | Completed | [View Incident Report](./NIST_CSF_Incident Report,pdf) |
 | **Linux File Permissions** | Managing users, groups, and file access permissions via CLI. | ⏳ Pending | *Coming Soon* |
 | **SQL Database Filtering** | Writing SQL queries to investigate security incidents and logs. | ⏳ Pending | *Coming Soon* |
 | **Vulnerability Assessment** | Identifying system threats and weaknesses for small businesses. | ⏳ Pending | *Coming Soon* |
