@@ -25,7 +25,7 @@ This portfolio contains hands on labs and tasks of Google CyberSecurity Course.
 | **Security Audit Report** | Assessing business security controls, assets, and compliance risks for Botium Toys. | Completed | [View Audit PDF](./Botium_Toys_Security_Audit.pdf) |
 | **Network Architecture & Security** | Analyzing network structure, protocols, and firewall rules. | Completed | [View Report](./NIST_CSF_Incident_Response_Report.pdf) |
 | **Linux File Permissions** | Managing users, groups, and file access permissions via CLI. | Completed | [View PDF](./File_permissions_Linux.pdf) |
-| **SQL Database Filtering** | Writing SQL queries to investigate security incidents and logs. | ⏳ Pending | *Coming Soon* |
+| **SQL Database Filtering** | Writing SQL queries to investigate security incidents and logs. | Completed | [View PDF](./Apply_filters_SQL.pdf) |
 | **Vulnerability Assessment** | Identifying system threats and weaknesses for small businesses. | ⏳ Pending | *Coming Soon* |
 | **Incident Handler's Journal** | Documenting security incidents, detection, and mitigation steps. | ⏳ Pending | *Coming Soon* |
 | **Python Security Automation** | Automating security log parsing and file management. | ⏳ Pending | *Coming Soon* |
